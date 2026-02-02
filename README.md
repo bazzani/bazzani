@@ -1,5 +1,4 @@
-Hi, I am a Results driven Oracle Certified Professional: Java SE 21 Developer with a track record of solving real-world problems using Java 21, k8s, Kafka and AWS services, amongst others; on time, with high quality.
-
+I am a results-driven Oracle Certified Professional: Java SE 21 Developer with a track record of solving real-world problems using Java 21, k8s, Kafka and AWS services, amongst others; on time, with high quality.
 
 I offer over fifteen years of experience primarily in the financial sector, developing with Java SE 21, Apache Kafka, AWS, Spring, Angular 10+, and myriad other technologies.
 
